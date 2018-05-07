@@ -1,0 +1,4 @@
+Code,Name,Name KH,Category Code,Unit ID,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Subcategory Code,Product Variants Separated by |,Supplier1(No),Supplier2(No),Supplier3(No),Supplier4(No),Supplier5(No),Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6,Image,Type(standard or service)
+PR-00001,Test Import Product 00001,,A1,1,0,15,10, No Tax,,AA1,,12,,,,,15,0.1,KHM,,,,no_image.png,standard
+PR-00002,Test Import Product 00002,,B1,1,0,15,10, No Tax,,BB1,,10,,,,,15,0.1,KHM,,,,no_image.png,service
+PR-00003,Test Import Product 00003,,C1,1,0,15,10, No Tax,, CC1,,11,,,,,15,0.1,KHM,,,,no_image.png,standard

@@ -1,0 +1,3 @@
+﻿Code,Name,Name KH,Category Code,Unit ID,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Subcategory Code,Product Variants Separated by |,Supplier1(No),Supplier2(No),Supplier3(No),Supplier4(No),Supplier5(No),Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6,Image,Type(standard or service)
+PR-00001,  រូបថត​ 5 x 6,,C001,1,0,0,10, No Tax, exclusive,,,SUP01,,,,,13,10,,,,,no_image.png,service
+PR-00002,  រូបថត​ 8 x 4,,C001,1,0,0,10, No Tax, exclusive,,,SUP02,,,,,13,10,,,,,no_image.png,service
