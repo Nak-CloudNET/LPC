@@ -16,8 +16,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://192.168.1.168:8181/Clients/iCloudERP_v3.4_LPC/';
-
+//$config['base_url'] = 'http://192.168.1.168:8181/Clients/iCloudERP_v3.4_LPC/';
+$config['base_url']  =  "http://".$_SERVER['HTTP_HOST'];
+$config['base_url'] .= preg_replace('@/+$@', '', dirname($_SERVER['SCRIPT_NAME'])).'/';
 /*
 |--------------------------------------------------------------------------
 | Index File
